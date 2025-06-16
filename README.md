@@ -1,2 +1,2 @@
 # tictactoe
-made to learn react
+simple game made to learn react
